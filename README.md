@@ -12,6 +12,9 @@ Istomin Sergey group 6413
 
 localhost:8080/v3/api-docs
 Скрин:
+![Image alt](https://github.com/Sistomin/JavaSpringSwaggerHW6/blob/main/v3ApiDocs.JPG)
 
 localhost:8080/swagger-ui/index.html
 Скрины с ручками:
+![Image alt](https://github.com/Sistomin/JavaSpringSwaggerHW6/blob/main/swagger1_1.JPG)
+![Image alt](https://github.com/Sistomin/JavaSpringSwaggerHW6/blob/main/swagger1_2.JPG)
