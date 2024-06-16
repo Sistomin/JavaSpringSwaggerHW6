@@ -1,0 +1,19 @@
+1. Подключить OpenAPI 3 и swagger к проекту с библиоткой
+2. Описать все контроллеры, эндпоинты и возвращаемые тела с помощью аннотаций OpenAPI 3
+3. В качестве результата, необходимо прислать скриншот(ы) страницы swagger (с ручками)
+
+Доп. задание (сдавать не нужно):
+придумать какие-то доменные сервисы (по типу библиотеки и заметок) и попытаться спроектировать его API.
+
+<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.5.0</version>
+		</dependency>
+
+
+http://localhost:8080/v3/api-docs
+
+localhost:8080/swagger-ui/index.html
+
+
